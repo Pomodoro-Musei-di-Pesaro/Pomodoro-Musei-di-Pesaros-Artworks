@@ -4,8 +4,8 @@ All repository's artworks are under: Creative Commons Attribution-NonCommercial-
 ---
 
 # Analytics
-[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/tree/traffic#-Pomodoro-Musei-di-Pesaro-Artworks)
-[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/tree/traffic#-Pomodoro-Musei-di-Pesaro-Artworks)
+[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)
+[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/releases/)
 
 ---
