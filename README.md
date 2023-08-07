@@ -13,6 +13,7 @@ All repository's artworks are under: Creative Commons Attribution-NonCommercial-
 # Details
 [![GitHub commits](https://badgen.net/github/commits/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/commit/)
 [![GitHub stars](https://badgen.net/github/stars/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks?color=blue)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/watchers)
 [![GitHub issues](https://img.shields.io/github/issues/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub forks](https://badgen.net/github/forks/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/network/)
