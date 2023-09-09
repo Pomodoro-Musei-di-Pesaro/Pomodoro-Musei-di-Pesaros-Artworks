@@ -39,12 +39,12 @@ This work is licensed under a
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 ---
-
+<!--
 # Authors
 -   Alice Balestieri
 -   Francesco Rombaldoni
 
----
+--- -->
 
 # Contributors
 <!-- readme: collaborators,contributors -start -->
