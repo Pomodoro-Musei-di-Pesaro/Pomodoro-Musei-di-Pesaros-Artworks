@@ -1,21 +1,26 @@
 # Pomodoro Musei di Pesaro Artworks
-All repository's artworks are under: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+
+All repository's artworks are under: Creative Commons Attribution
+-NonCommercial-NoDerivatives 4.0 International License
 
 ---
 
-# Status
+## Status
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2c5a5aee8b0c4e54a54c0271db2ce8ad)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ---
 
-# Analytics
+## Analytics
+
 [![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)
 [![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/traffic/traffic-Pomodoro-Musei-di-Pesaro-Artworks/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/releases/)
 
 ---
 
-# Details
+## Details
+
 [![GitHub commits](https://badgen.net/github/commits/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/commit/)
 [![GitHub stars](https://badgen.net/github/stars/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks?color=blue)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/watchers)
@@ -26,7 +31,8 @@ All repository's artworks are under: Creative Commons Attribution-NonCommercial-
 
 ---
 
-# License
+## License
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
@@ -40,7 +46,8 @@ This work is licensed under a
 
 ---
 
-# Contributors
+## Contributors
+
 <!-- readme: collaborators,contributors -start -->
 <table>
 	<tbody>
