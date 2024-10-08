@@ -3,11 +3,15 @@
 All repository's artworks are under: Creative Commons Attribution
 -NonCommercial-NoDerivatives 4.0 International License
 
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
+
 ---
 
 ## Status
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2c5a5aee8b0c4e54a54c0271db2ce8ad)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks)
 
 ---
 
