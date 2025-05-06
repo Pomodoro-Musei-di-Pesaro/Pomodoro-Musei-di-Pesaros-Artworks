@@ -35,6 +35,29 @@ All repository's artworks are under: Creative Commons Attribution
 
 ---
 
+<details>
+<summary>
+
+## 👉 See the images
+
+</summary>
+
+### Pomodoro's logo 
+
+![logo](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png)
+
+### Musei Oliveriani's stamp
+
+![stamp](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Oliveriani_Stamp/Stamp.png)
+
+### Musei Civici's mascotte
+
+![mascotte](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Civici_Children_Mascotte/Tail.png)
+
+</details>
+
+---
+
 ## License
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
