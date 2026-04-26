@@ -1,11 +1,5 @@
 [
   {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/commit/806b661dcc123ce99099bb54e16db8d82c4435a2",
-    "title": "/commit/806b661dcc123ce99099bb54e16db8d82c4435a2",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/commit/a0a89c4c83d8b82e7f6519d6b2079d544436ba7a",
     "title": "/commit/a0a89c4c83d8b82e7f6519d6b2079d544436ba7a",
     "count": 2,
@@ -20,12 +14,6 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks",
     "title": "Overview",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/.gitignore",
-    "title": "/blob/main/.gitignore",
     "count": 1,
     "uniques": 1
   },
