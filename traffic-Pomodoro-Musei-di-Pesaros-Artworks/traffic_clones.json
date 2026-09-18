@@ -5168,11 +5168,6 @@
       "uniques": 8
     },
     {
-      "timestamp": "2026-09-03T00:00:00Z",
-      "count": 6,
-      "uniques": 4
-    },
-    {
       "timestamp": "2026-09-02T00:00:00Z",
       "count": 6,
       "uniques": 4
@@ -5181,6 +5176,11 @@
       "timestamp": "2026-09-04T00:00:00Z",
       "count": 23,
       "uniques": 15
+    },
+    {
+      "timestamp": "2026-09-03T00:00:00Z",
+      "count": 6,
+      "uniques": 4
     },
     {
       "timestamp": "2026-09-05T00:00:00Z",
