@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/SUPPORT.md",
+    "title": "/blob/main/SUPPORT.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks",
     "title": "Overview",
     "count": 1,
@@ -20,6 +26,12 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/activity",
     "title": "/activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/README.md",
+    "title": "/blob/main/README.md",
     "count": 1,
     "uniques": 1
   },
@@ -44,12 +56,6 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/graphs/contributors",
     "title": "/graphs/contributors",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/tags",
-    "title": "/tags",
     "count": 1,
     "uniques": 1
   }
